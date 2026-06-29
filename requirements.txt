@@ -1,8 +1,6 @@
-Fraud-Detection-Project/
-│
-├── analysis_model.ipynb
-├── fraud_detection.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── sample_dataset.csv   (أو رابط للداتا إذا كانت كبيرة)
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
