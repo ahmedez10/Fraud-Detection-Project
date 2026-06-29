@@ -95,6 +95,14 @@ Fraud-Detection-Project/
 - Model comparison
 - Deploy with Streamlit
 - Docker deployment
+## Model Performance
+
+| Metric | Score |
+|---------|-------|
+| Accuracy | **99.97%** |
+| Precision | **96%** |
+| Recall | **82%** |
+| F1-Score | **88%** |
 
 ---
 
