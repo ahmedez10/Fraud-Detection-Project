@@ -245,6 +245,3 @@ Fraud-Detection-Project/
 
 Ahmed Ezzat
 
-Faculty of Computers and Information
-
-Machine Learning & Data Analysis
